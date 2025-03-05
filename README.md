@@ -2,7 +2,6 @@
 
 - Python 3.9 ou superior
 - PostgreSQL
-- Conexão com a internet (para acessar o banco de dados remoto, se necessário)
 
 ## Como Usar
 
